@@ -2,7 +2,7 @@
 
 An open world built from toy bricks: villages to visit, people to talk to, animals to ride, things to build and things to blow up. The clouds, the sun and the moon hang on strings like props on a film set.
 
-**Play it: https://loganmakesaigames.github.io/brickhaven/**
+**Play it: https://loganmakesaigames.github.io/Brickhaven/**
 
 It runs in the browser on a phone, a tablet or a computer. Nothing to install.
 
