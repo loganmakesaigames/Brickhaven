@@ -13,11 +13,11 @@ Open the link in Safari (iPhone) or Chrome (Android) and turn the phone sideways
 - **Left thumb**: move (push past the ring to run)
 - **Right thumb**: drag to look, tap to build, hold on a piece to take it apart
 - **Two fingers**: zoom the camera
-- **Buttons**: jump (bottom right); map, journal, view and graphics (top right)
+- **Buttons**: jump (bottom right); map, journal, view and settings (top right)
 - Prompts like "Talk to …" or "Ride the horse" are buttons: just tap them
 
-If it stutters, tap the sparkle button (top right) to switch the graphics to **Fast**.
+The gear (top right) opens **Settings**: look speed, field of view, sound, the size of the buttons, and every graphics option. If it stutters, pick **Fast**, lower the resolution, or set the frame rate limit to 30 for a steady picture.
 
 ## On a computer
 
-`W A S D` to move, `Shift` to run, `Space` to jump, the mouse to look (click the game first), left mouse to take pieces apart, right mouse to build, `R` to turn a piece, `1`–`9` for the hotbar, `E` to talk, ride, sit or open, `M` for the map and `J` for the journal.
+`W A S D` to move, `Shift` to run, `Space` to jump, the mouse to look (click the game first), left mouse to take pieces apart, right mouse to build, `R` to turn a piece, `1`–`9` for the hotbar, `E` to talk, ride, sit or open, `M` for the map, `J` for the journal and `P` for settings.
