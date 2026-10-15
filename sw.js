@@ -1,7 +1,7 @@
 // Keeps Brickhaven playable offline once it's been opened: the page, its
 // icons and manifest come from the cache, and are refreshed in the background
 // whenever there's a connection (so a new version arrives on the next visit).
-const CACHE = 'brickhaven-202610142245';
+const CACHE = 'brickhaven-202610150412';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting())));
 self.addEventListener('activate', (e) => e.waitUntil(caches.keys()

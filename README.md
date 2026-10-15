@@ -16,7 +16,7 @@ Open the link in Safari (iPhone) or Chrome (Android) and turn the phone sideways
 - **Buttons**: jump (bottom right); map, journal, view and settings (top right)
 - Prompts like "Talk to …" or "Ride the horse" are buttons: just tap them
 
-The gear (top right) opens **Settings**: look speed, field of view, sound, the size of the buttons, and every graphics option. If it stutters, pick **Fast**, lower the resolution, or set the frame rate limit to 30 for a steady picture.
+The gear (top right) opens **Settings**: look speed, field of view, sound, the size of the buttons, and every graphics option. The frame rate limit starts on **Auto**: if your phone can't keep 60 frames a second at your settings, it settles on a steady 30, which looks smoother and keeps the phone cooler. If it still stutters, pick **Fast** or lower the resolution.
 
 ## On a computer
 
